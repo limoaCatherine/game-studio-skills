@@ -1,0 +1,23 @@
+{
+  "name": "game-studio-skills",
+  "owner": {
+    "name": "LiMaoHua"
+  },
+  "metadata": {
+    "description": "Distilled game-studio workflow skills for Cursor.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "game-studio-skills",
+      "source": ".",
+      "description": "106 game-production workflow skills. Design, combat, economy, narrative, art, QA, and live-ops procedures for Cursor.",
+      "keywords": [
+        "game-development",
+        "gamedev",
+        "workflow",
+        "skills"
+      ]
+    }
+  ]
+}

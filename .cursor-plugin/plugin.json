@@ -1,0 +1,16 @@
+{
+  "name": "game-studio-skills",
+  "version": "1.0.0",
+  "description": "106 game-production workflow skills distilled from a studio harness. Each skill says when to use it, the steps, what done looks like, and which skill comes next.",
+  "author": {
+    "name": "LiMaoHua"
+  },
+  "license": "MIT",
+  "keywords": [
+    "game-development",
+    "gamedev",
+    "workflow",
+    "skills",
+    "cursor"
+  ]
+}
