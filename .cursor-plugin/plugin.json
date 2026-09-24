@@ -1,7 +1,7 @@
 {
   "name": "game-studio-skills",
   "version": "1.0.0",
-  "description": "106 game-production workflow skills distilled from a studio harness. Each skill says when to use it, the steps, what done looks like, and which skill comes next.",
+  "description": "Distilled game-production roles and workflows. 35 job subagents and 106 skills: each role states its boundary, its path, and which skill to open next.",
   "author": {
     "name": "LiMaoHua"
   },
@@ -11,6 +11,7 @@
     "gamedev",
     "workflow",
     "skills",
+    "subagents",
     "cursor"
   ]
 }

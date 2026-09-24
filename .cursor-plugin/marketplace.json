@@ -4,19 +4,20 @@
     "name": "LiMaoHua"
   },
   "metadata": {
-    "description": "Distilled game-studio workflow skills for Cursor.",
+    "description": "Distilled game-industry job roles and workflows for Cursor.",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "game-studio-skills",
       "source": ".",
-      "description": "106 game-production workflow skills. Design, combat, economy, narrative, art, QA, and live-ops procedures for Cursor.",
+      "description": "35 game-production subagents and 106 workflow skills. Role boundaries, steps, and handoffs for Cursor.",
       "keywords": [
         "game-development",
         "gamedev",
         "workflow",
-        "skills"
+        "skills",
+        "subagents"
       ]
     }
   ]
